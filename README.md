@@ -1,1 +1,1 @@
-# SkeletonReview
+# Errata of the paper: 
