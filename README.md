@@ -1,7 +1,7 @@
 # Errata of the paper: Space-Time Representation of People Based on 3D Skeletal Data: A Review
 > This list shows the errata of the paper we submitted to arXiv: http://arxiv.org/abs/1601.01006
 
-> If you find errors in the paper or your paper not reviewed in the paper, please contact me fhanATminesDOTedu
+> If you find errors in this paper or your paper is not included in the paper, please feel free to contact me fhanATminesDOTedu
 
 ## Revise:
 1. Move [108] from Table 7 to Table 6. The method in [108] is speed invariant.
