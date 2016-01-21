@@ -1,15 +1,16 @@
-# Errata of the paper: Space-Time Representation of People Based on 3D Skeletal Data: A Review
+# Space-Time Representation of People Based on 3D Skeletal Data: A Review
+# Update and Errata
 > This list shows the errata of the paper we submitted to arXiv: http://arxiv.org/abs/1601.01006
 
-> If you find errors in this paper or your paper is not included in the paper, please feel free to contact me fhanATminesDOTedu
+> If you notice typos or errors in this paper, or if your paper on skeleton-based representations is not included in the manuscript, please feel free to contact me fhanATminesDOTedu
 
-## Revise:
+## To be revised:
 1. Move [108] from Table 7 to Table 6. The method in [108] is speed invariant.
 
 
-## Add:
+## To be added:
 1. New reference: Ben Crabbe, Adeline Paiement, Sion Hannuna, Majid Mirmehdi, "Skeleton-free body pose estimation from depth images for movement analysis," ChaLearn LaP workshop at ICCV, December 2015
 
 
-## Delete:
+## To be deleted:
 N/A
