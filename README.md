@@ -5,7 +5,7 @@
 > If you notice typos or errors in this paper, or if your paper on skeleton-based representations is not included in the manuscript, please feel free to contact me fhanATminesDOTedu
 
 ## To be revised:
-1. Move [108] from Table 7 to Table 6. The method in [108] is speed invariant.
+1. Move [108](Paiement et al., BMVC'14) from Table 6 to Table 5. The method in [108] is speed invariant.
 
 
 ## To be added:
