@@ -9,8 +9,8 @@
 
 
 ## To be added:
-1. New reference: Ben Crabbe, Adeline Paiement, Sion Hannuna, Majid Mirmehdi, "Skeleton-free body pose estimation from depth images for movement analysis," ChaLearn LaP workshop at ICCV, December 2015
-
+1. Ben Crabbe, Adeline Paiement, Sion Hannuna, Majid Mirmehdi, "Skeleton-free body pose estimation from depth images for movement analysis," ChaLearn LaP workshop at ICCV, December 2015
+2. Meng Ding and Guoliang Fan. "Articulated and Generalized Gaussian Kernel Correlation for Human Pose Estimation," IEEE Transactions on Image Processing, vol. 25, no. 2, pp. 776-789, 2016
 
 ## To be deleted:
 N/A
