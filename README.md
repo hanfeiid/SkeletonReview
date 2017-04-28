@@ -4,7 +4,7 @@
 
 > <s>If you notice typos or errors in this paper, or if your paper on skeleton-based representations is not included in the manuscript, please feel free to contact me fhanATminesDOTedu </s>
 
-The paper has been accepted by Computer Vision and Image Understanding, see
+The paper has been published in Computer Vision and Image Understanding, see
 http://www.sciencedirect.com/science/article/pii/S1077314217300279
 
 Bibtex info:
@@ -13,7 +13,9 @@ Bibtex info:
   title={Space-time representation of people based on {3D} skeletal data: A review},
   author={Han, Fei and Reily, Brian and Hoff, William and Zhang, Hao},
   journal={Computer Vision and Image Understanding},
-  year={2017, to appear}
+  volume={158},
+  pages={85--105},
+  year={2017}
 }
 ```
 
